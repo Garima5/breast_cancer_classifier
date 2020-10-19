@@ -29,4 +29,8 @@ If I train it for 30 epochs, I suspect the model overfits as the test error grap
 If I use learning rate of 0.05 I get the following graph:
 ![](0.05.png)
 I learning rate is too low, say 0.001, the graph changes as:
-
+|  Learning Rate |  Number of Epochs |  Training error |  Testing error |
+|----------------|---                |---|---|
+|![](0.05.png)|   |   |   |
+|   |   |   |   |
+|   |   |   |   |
