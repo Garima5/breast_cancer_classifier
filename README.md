@@ -31,6 +31,6 @@ If I use learning rate of 0.05 I get the following graph:
 I learning rate is too low, say 0.001, the graph changes as:
 |  Learning Rate |  Number of Epochs |  Training error |  Testing error |
 |----------------|---                |---|---|
-|![](0.05.png)|   |   |   |
+||   |   | ![](0.05.png)  |
 |   |   |   |   |
 |   |   |   |   |
