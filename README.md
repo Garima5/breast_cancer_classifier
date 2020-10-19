@@ -26,5 +26,6 @@ I trained the data for different learning rates and number of epochs. I observed
 
 If I train it for 30 epochs, I suspect the model overfits as the test error graph changes as:
 
+
 I learning rate is too low, say 0.001, the graph changes as:
 
