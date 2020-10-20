@@ -22,15 +22,12 @@ Pytorch
 
 # Important Observations
 
-I trained the data for different learning rates and number of epochs. I observed that with learning rate = 0.02 and number of epochs = 25 I get about 85% test accuracy as well as decreasing error graph as:
+I trained the data for different learning rates and number of epochs. I observed that with learning rate = 0.02 and number of epochs = 25 I get about 85% test accuracy as well as decreasing error graph. If I train it for 30 epochs, the model supoosedely overfits as seen in the test error. For learning rate = 0.001, the error does decrease, however, the accuracy is about 73% only.
 
-If I train it for 30 epochs, I suspect the model overfits as the test error graph changes as:
-![](0.02-30.png)
-If I use learning rate of 0.05 I get the following graph:
-![](0.05.png)
-I learning rate is too low, say 0.001, the graph changes as:
 |  Learning Rate |  Number of Epochs |  Training error |  Testing error |
 |----------------|---                |---|---|
-||   |   | ![](0.05.png)  |
-|   |   |   |   |
-|   |   |   |   |
+| 0.02. |  25 |  |   |
+| 0.02  |  30 |   |   |
+| 0.001 |  25 |   |   |
+| 0.01  |  25 |   |   |
+| 0.05  |  25 |   |   |
