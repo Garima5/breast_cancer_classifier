@@ -1,4 +1,4 @@
-# breast_cancer_classifier
+# Breast Cancer Classifier
 * Coded a Convolutional Neural Network using transfer learning to classify breast cancer images as benign or malignant. 
 * Used pretrained VGG 16 model and modified last layer. 
 * Added 2 fully connected layers in the end.
