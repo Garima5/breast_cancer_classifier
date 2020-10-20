@@ -9,8 +9,11 @@ Used the breast cancer images provided in the BreakHis data set. It can be reque
 ## Data Structure
 
 ### Original
+The original data folder looked like this 
 
 ### Rearranged the dataset as
+I rearranged the data for the program as:
+![](datastructure2.png)
 
 # Libraries used
 * numpy
