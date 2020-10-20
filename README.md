@@ -1,7 +1,7 @@
 # breast_cancer_classifier
-Coded a Convolutional Neural Network using transfer learning to classify breast cancer images as benign or malignant. 
-Used pretrained VGG 16 model and modified last layer. 
-Added 2 fully connected layers in the end.
+* Coded a Convolutional Neural Network using transfer learning to classify breast cancer images as benign or malignant. 
+* Used pretrained VGG 16 model and modified last layer. 
+* Added 2 fully connected layers in the end.
 
 # Data Set
 Used the breast cancer images provided in the BreakHis data set. It can be requested here: https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
@@ -13,12 +13,12 @@ Used the breast cancer images provided in the BreakHis data set. It can be reque
 ### Rearranged the dataset as
 
 # Libraries used
-numpy
-pandas
-matplotlib
-Opencv                
-Keras 
-Pytorch
+* numpy
+* pandas
+* matplotlib
+* Opencv                
+* Keras 
+* Pytorch
 
 # Important Observations
 
@@ -26,7 +26,7 @@ I trained the data for different learning rates and number of epochs. I observed
 
 |  Learning Rate |  Number of Epochs |  Training error |  Testing error |
 |----------------|---                |---|---|
-| 0.02. |  25 | ![](0.02train.png) |  ![](0.02test.png) |
+| 0.02 |  25 | ![](0.02train.png) |  ![](0.02test.png) |
 | 0.02  |  30 | ![](0.0230train.png)|![](0.0230test.png) |
 | 0.001 |  25 | ![](0.001train.png)  | ![](0.001test.png)  |
 | 0.01  |  25 | ![](0.01train.png)  | ![](0.01test.png)  |
