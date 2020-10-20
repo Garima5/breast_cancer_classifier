@@ -10,10 +10,10 @@ Used the breast cancer images provided in the BreakHis data set. It can be reque
 
 ### Original
 The original data folder looked like this 
-
+![](ds1.png)
 ### Rearranged the dataset as
 I rearranged the data for the program as:
-![](datastructure2.png)
+![](ds2.png)
 
 # Libraries used
 * numpy
