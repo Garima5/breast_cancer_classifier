@@ -27,7 +27,7 @@ I trained the data for different learning rates and number of epochs. I observed
 |  Learning Rate |  Number of Epochs |  Training error |  Testing error |
 |----------------|---                |---|---|
 | 0.02. |  25 | ![](0.02train.png) |  ![](0.02test.png) |
-| 0.02  |  30 |   |   |
-| 0.001 |  25 |   |   |
-| 0.01  |  25 |   |   |
-| 0.05  |  25 |   |   |
+| 0.02  |  30 | ![](0.0230train.png)|![](0.0230train.png) |
+| 0.001 |  25 | ![](0.001train.png)  | ![](0.001train.png)  |
+| 0.01  |  25 | ![](0.01train.png)  | ![](0.01train.png)  |
+| 0.05  |  25 | ![](0.05train.png)  | ![](0.05train.png) |
