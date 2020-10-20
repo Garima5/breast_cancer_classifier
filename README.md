@@ -10,9 +10,9 @@ Used the breast cancer images provided in the BreakHis data set. It can be reque
 
 ### Original
 The original data folder looked like this 
-![](ds1.png)
+![](images/ds1.png)
 ### Rearranged the dataset as
-![](ds2.png)
+![](images/ds2.png)
 
 # Libraries used
 * numpy
@@ -28,8 +28,8 @@ I trained the data for different learning rates and number of epochs. I observed
 
 |  Learning Rate |  Number of Epochs |  Training error |  Testing error |
 |----------------|---                |---|---|
-| 0.02 |  25 | ![](images/0.02train.png) |  ![](0.02test.png) |
-| 0.02  |  30 | ![](0.0230train.png)|![](0.0230test.png) |
-| 0.001 |  25 | ![](0.001train.png)  | ![](0.001test.png)  |
-| 0.01  |  25 | ![](0.01train.png)  | ![](0.01test.png)  |
-| 0.05  |  25 | ![](0.05train.png)  | ![](0.05test.png) |
+| 0.02 |  25 | ![](images/0.02train.png) |  ![](images/0.02test.png) |
+| 0.02  |  30 | ![](images/0.0230train.png)|![](images/0.0230test.png) |
+| 0.001 |  25 | ![](images/0.001train.png)  | ![](images/0.001test.png)  |
+| 0.01  |  25 | ![](images/0.01train.png)  | ![](images/0.01test.png)  |
+| 0.05  |  25 | ![](images/0.05train.png)  | ![](images/0.05test.png) |
