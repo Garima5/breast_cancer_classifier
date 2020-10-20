@@ -12,7 +12,6 @@ Used the breast cancer images provided in the BreakHis data set. It can be reque
 The original data folder looked like this 
 ![](ds1.png)
 ### Rearranged the dataset as
-I rearranged the data for the program as:
 ![](ds2.png)
 
 # Libraries used
